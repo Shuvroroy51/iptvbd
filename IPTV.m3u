@@ -80,9 +80,9 @@ http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8
 #http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/856
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-#http://103.167.190.250/hls/starjalsha.m3u8
+http://103.167.190.250/hls/starjalsha.m3u8
 #http://103.55.144.46/hls/starjalsha.m3u8
-http://89.187.162.109/STARJALSHA/mono.m3u8
+#http://89.187.162.109/STARJALSHA/mono.m3u8
 #http://208.86.19.13:81/908.stream/index.m3u8
 #http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/857
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
