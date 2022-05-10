@@ -46,9 +46,7 @@ http://103.136.200.246:8082/GaanBangla/index.m3u8
 http://103.136.200.246:8082/Sonyaath/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Star Jalsha [4]
 http://103.136.200.246:8082/Star-Jalsha/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Star Jalsha HD [4]
-http://89.187.162.109/STARJALSHA/mono.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Zee Bangla HD [4]
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Zee Bangla HD [4]
 http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Colors Bangla [4]
 http://103.136.200.246:8082/colorsbangla/index.m3u8 
@@ -58,8 +56,6 @@ http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 http://103.136.200.246:8082/Jalshamovies/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony TV [4]
 http://103.136.200.246:8082/SonyTVHD/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony TV [4]
-http://89.187.162.109/SONYHD/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony Sab [4]
 http://103.136.200.246:8082/Sony_Sab/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Colors [4] 
@@ -76,8 +72,6 @@ http://103.136.200.246:8082/Ten3/index.m3u8
 http://103.136.200.246:8082/SonyPix/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony TV [4]
 http://103.136.200.246:8082/SonyTVHD/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony TV [4]
-http://89.187.162.109/SONYHD/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony Sab [4]
 http://103.136.200.246:8082/Sony_Sab/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Colors [4]
