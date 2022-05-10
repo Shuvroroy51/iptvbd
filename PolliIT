@@ -1,0 +1,106 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Gazi TV [4]
+http://103.136.200.246:8082/Gazi-Tv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", ATN Bangla [4]
+http://103.136.200.246:8082/ATN-Bangla/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Somoy TV [4]
+http://103.136.200.246:8082/Somoy-TV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Ekahtor TV [4]
+http://103.136.200.246:8082/Ekattor-tv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", ATN News [4]
+http://103.136.200.246:8082/Atn-News/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Independent TV [4]
+http://103.136.200.246:8082/Independent-Tv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Channel 24 [4]
+http://103.136.200.246:8082/Channel24/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", News24 [4]
+http://103.136.200.246:8082/News24bd/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", DBC News [4]
+http://103.136.200.246:8082/DBC-NEWS/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Channel I [4]
+http://103.136.200.246:8082/Channel-i/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Ekushay TV [4]
+http://103.136.200.246:8082/Ekushey-TV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", NTV [4]
+http://103.136.200.246:8082/Ntv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", RTV [4]
+http://103.136.200.246:8082/RTV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", SATV [4]
+http://103.136.200.246:8082/SATV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Mohona TV [4]
+http://103.136.200.246:8082/MohonaTV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", My TV [4]
+http://103.136.200.246:8082/MyTV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Anando TV [4]
+http://103.136.200.246:8082/anandotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Bangla Vision [4]
+http://103.136.200.246:8082/BanglaVision/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Nagorik TV [4]
+http://103.136.200.246:8082/Nagorik-TV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Bijoy TV [4]
+http://103.136.200.246:8082/BijoyTv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Boishakhi TV [4]
+http://103.136.200.246:8082/Boishakhi/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Gaan Bangla [4]
+http://103.136.200.246:8082/GaanBangla/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony Aath [4]
+http://103.136.200.246:8082/Sonyaath/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Star Jalsha [4]
+http://103.136.200.246:8082/Star-Jalsha/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Star Jalsha HD [4]
+http://89.187.162.109/STARJALSHA/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Zee Bangla HD [4]
+http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Colors Bangla [4]
+http://103.136.200.246:8082/colorsbangla/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sun Bangla [4]
+http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Jalsha Movies HD [4]
+http://103.136.200.246:8082/Jalshamovies/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony TV [4]
+http://103.136.200.246:8082/SonyTVHD/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony TV [4]
+http://89.187.162.109/SONYHD/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony Sab [4]
+http://103.136.200.246:8082/Sony_Sab/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Colors [4] 
+http://103.136.200.246:8082/colorsindia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony Six [4]
+http://103.136.200.246:8082/SonySix/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", SONY Ten 1 [4]
+http://103.136.200.246:8082/Ten1/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", SONY Ten 2 [4]
+http://103.136.200.246:8082/Ten2/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", SONY Ten 3 [4]
+http://103.136.200.246:8082/Ten3/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony Pix [4]
+http://103.136.200.246:8082/SonyPix/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony TV [4]
+http://103.136.200.246:8082/SonyTVHD/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony TV [4]
+http://89.187.162.109/SONYHD/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony Sab [4]
+http://103.136.200.246:8082/Sony_Sab/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Colors [4]
+http://103.136.200.246:8082/colorsindia/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Star Barath [4]
+http://89.187.162.109/STARBHARATHD/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", And TV [4]
+http://89.187.162.109/ANDTVHD/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Zee Cinema HD [4]
+http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Star Gold [4]
+http://103.136.200.246:8082/StarGold/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", SONY Max [4]
+http://103.136.200.246:8082/Sony-Max/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony Six [4]
+http://103.136.200.246:8082/SonySix/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", SONY Ten 1 [4]
+http://103.136.200.246:8082/Ten1/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", SONY Ten 2 [4]
+http://103.136.200.246:8082/Ten2/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", SONY Ten 3 [4]
+http://103.136.200.246:8082/Ten3/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P0rF95.png" group-title="Polly IT", Sony Pix [4]
+http://103.136.200.246:8082/SonyPix/index.m3u8
+
+Playlist forked from yamcode.com/nocopyright
