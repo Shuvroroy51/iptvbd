@@ -104,32 +104,24 @@ http://208.86.19.13:81/902.stream/index.m3u8
 http://103.136.200.246:8082/ZeeBanglacinema/index.m3u8
 #http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla", Sun Bangla
-#http://208.86.19.13:81/903.stream/index.m3u8
-http://103.167.190.250/hls/sunbangla.m3u8
-#http://103.55.144.46/hls/sunbangla.m3u8
+http://208.86.19.13:81/903.stream/index.m3u8
+#http://103.167.190.250/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
 #http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Entertainment", Travel XP
-http://103.167.190.250/hls/travelxp.m3u8
-#http://103.55.144.46/hls/travelxp.m3u8
-#http://103.170.140.8/hls/travelxp.m3u8
+#http://103.167.190.250/hls/travelxp.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-#http://103.149.130.122:8089/38/index.m3u8
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
-#http://103.55.144.46/hls/sonyen.m3u8
 #http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
-#http://103.149.130.122:8089/68/index.m3u8
 http://tv2.ebox.live:8080/live/colors.m3u8
-#http://103.55.144.46/hls/colore-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
-#http://103.149.130.122:8089/67/index.m3u8
 http://tv2.ebox.live:8080/live/star-plus.m3u8
 #http://103.55.144.46/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
-http://103.167.190.250/hls/zeetv.m3u8
-#http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#http://103.167.190.250/hls/zeetv.m3u8
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures
 http://103.167.190.250/hls/andpictures.m3u8
 #http://103.55.144.46/hls/andpictures.m3u8
@@ -149,8 +141,6 @@ http://tv2.ebox.live:8080/live/sony-max-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2
 #http://182.50.65.213:8888/udp/239.239.0.31:3001/index.m3u8
 http://103.167.190.250/hls/stargold2hd.m3u8
-#http://103.55.144.46/hls/stargold2hd.m3u8
-#http://180.178.130.180:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
 http://tv2.ebox.live:8080/live/star-gold.m3u8
 #http://103.55.144.46/hls/stargold.m3u8
@@ -160,16 +150,14 @@ http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Hindi", MTV HD
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
-http://103.167.190.250/hls/utvaction.m3u8
-#http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
+#http://103.167.190.250/hls/utvaction.m3u8
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat HD
 http://89.187.162.109/STARBHARATHD/mono.m3u8
-#http://182.50.65.213:8888/udp/239.239.0.7:3001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV HD
 http://89.187.162.109/ANDTVHD/mono.m3u8
-#http://182.50.65.213:8888/udp/239.239.0.10:3001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Infotainment", Animal Planet HD
 http://103.167.190.250/hls/animalplanent.m3u8
@@ -186,14 +174,12 @@ http://103.167.190.250/hls/dis-science.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Infotainment", Discovery Turbo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment", History Channel
-#http://103.139.171.5:5001/jiotvplus/live.php?c=History_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Infotainment", National Geographic HD
-http://103.167.190.250/hls/ngohd.m3u8
+#http://103.167.190.250/hls/ngohd.m3u8
 #http://103.55.144.46/hls/ngohd.m3u8
-#https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Infotainment", National Geographic Wild
 http://103.167.190.250/hls/wild.m3u8
-#http://103.55.144.46/hls/wild.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Infotainment", Discovery HD
 http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Infotainment", TLC HD
@@ -250,7 +236,6 @@ http://103.167.190.250/hls/mnx-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Entertainment", Zee Cafe HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Entertainment", HBO
-#http://103.139.171.5:5001/jiotvplus/live.php?c=HBO_HD&q=1200&e=junk.m3u8
 http://190.171.101.36/HBO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMFEiH2SUl61zuJ9uhIWAZ6qhxTEWDXMR-v1_1zpnZHmv__CJGBDGQu0&s=10" group-title="Entertainment",Star World HD
 http://103.167.190.250/hls/star-worldhd.m3u8
