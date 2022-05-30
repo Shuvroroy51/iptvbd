@@ -149,8 +149,8 @@ http://103.167.190.250/hls/andpictures.m3u8
 http://103.167.190.250/hls/colorscineplex.m3u8
 #http://103.55.144.46/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
-http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
-#http://tv2.ebox.live:8080/live/sony-max.m3u8
+#http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
+http://tv2.ebox.live:8080/live/sony-max.m3u8
 #http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Hindi",Sony SAB HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
