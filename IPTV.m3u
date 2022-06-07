@@ -96,20 +96,16 @@ http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg" group-title="Bangla", CNN Bangla
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
-http://103.55.144.46/hls/colorsbangla.m3u8
-#http://103.60.172.106:8080/ColorsBanglaHD/tracks-v1/mono.m3u8
-#http://208.86.19.13:81/616.stream/index.m3u8
-#http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/863
+http://103.159.4.38:9191/CH25-INBD4/index.m3u8
+#http://103.55.144.46/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
+#http://103.159.4.38:9191/CH23-INBD2/index.m3u8
 http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8
 #http://208.86.19.13:81/906.stream/index.m3u8
 #http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-#http://103.167.190.250/hls/starjalsha.m3u8
-http://103.55.144.46/hls/starjalsha.m3u8
-#http://89.187.162.109/STARJALSHA/mono.m3u8
-#http://208.86.19.13:81/908.stream/index.m3u8
-#http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/857
+http://103.159.4.38:9191/CH24-INBD3/index.m3u8
+#http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
 #http://103.136.200.246:8082/Jalshamovies/index.m3u8
 http://103.55.144.46/hls/jalshamovies.m3u8
@@ -122,7 +118,8 @@ http://103.55.144.46/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-logo="http://sldhnecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Bangla", Akash Aath
 http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
-http://103.55.144.46/hls/zee-bangla-cinema.m3u8
+http://103.159.4.38:9191/CH26-INBD5/index.m3u8
+#http://103.55.144.46/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla", Sun Bangla
 http://103.55.144.46/hls/sunbangla.m3u8
 #http://208.86.19.13:81/903.stream/index.m3u8
@@ -150,7 +147,8 @@ http://103.55.144.46/hls/andpictures.m3u8
 #http://103.167.190.250/hls/colorscineplex.m3u8
 http://103.55.144.46/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
-http://tv2.ebox.live:8080/live/sony-max.m3u8
+http://103.159.4.38:9191/CH32-IN-HIN4/index.m3u8
+#http://tv2.ebox.live:8080/live/sony-max.m3u8
 #http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Hindi",Sony SAB HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
@@ -324,7 +322,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music", 1HD Music
 
 #EXTINF:-1 tvg-logo="http://sldhnecdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Music", Zing
-
+http://103.159.4.38:9191/CH37-IN-HIN9/index.m3u8
 #EXTINF:-1 tvg-logo="http://sldhnecdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music", B4U Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qsh4GFZflFJBVcJd_2zsIWQpvgc7lm_2qA&usqp=CAU" group-title="Music",Music India
