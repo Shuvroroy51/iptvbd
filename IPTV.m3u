@@ -105,6 +105,8 @@ http://103.159.4.38:9191/CH23-INBD2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
 http://103.159.4.38:9191/CH24-INBD3/index.m3u8
 #http://103.55.144.46/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha SD
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
 https://nbn.chowdhury-shaheb.com/live/nb-jalshamovies_720p/playlist.m3u8
 #http://103.55.144.46/hls/jalshamovies.m3u8
