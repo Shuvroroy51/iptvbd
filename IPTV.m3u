@@ -99,11 +99,11 @@ http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 http://103.159.4.38:9191/CH25-INBD4/index.m3u8
 #http://103.55.144.46/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
-http://103.159.4.38:9191/CH23-INBD2/index.m3u8
+#http://103.159.4.38:9191/CH23-INBD2/index.m3u8
 #http://208.86.19.13:81/906.stream/index.m3u8
-#http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-http://103.159.4.38:9191/CH24-INBD3/index.m3u8
+#http://103.159.4.38:9191/CH24-INBD3/index.m3u8
 #http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha SD
 http://103.109.56.116/live/skyfeed1003/index.m3u8
@@ -145,8 +145,8 @@ http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://103.55.144.46/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
-http://103.159.4.38:9191/CH32-IN-HIN4/index.m3u8
-#http://tv2.ebox.live:8080/live/sony-max.m3u8
+#http://103.159.4.38:9191/CH32-IN-HIN4/index.m3u8
+http://tv2.ebox.live:8080/live/sony-max.m3u8
 #http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Hindi",Sony SAB HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
@@ -259,7 +259,7 @@ http://103.55.144.46/hls/starmovies.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Sports",T sports
-http://stream.accessnetbd.com/hls/sky4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 http://tv2.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
@@ -296,8 +296,7 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=sonic_Hindi&q=800&e=junk.m3u8
 #http://103.139.171.5:5001/jiotvplus/live.php?c=Pogo_Hindi&q=800&e=junk.m3u8
 http://103.153.39.36:8000/play/a022
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick
-http://103.60.172.106:8080/Nick/tracks-v1/mono.m3u8
-#http://103.153.39.36:8000/play/a01z
+http://103.153.39.36:8000/play/a01z
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior
 #http://103.139.171.5:5001/jiotvplus/live.php?c=Nick_Junior&q=800&e=junk.m3u8
 #http://tv2.ebox.live:8080/live/nick.m3u8
@@ -306,8 +305,7 @@ http://103.153.39.36:8000/play/a023
 #http://182.50.65.213:8888/udp/239.239.0.32:3001/index.m3u8
 http://103.153.39.36:8000/play/a01x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids",Discovery Kids
-http://103.167.190.250/hls/dis-kid.m3u8
-#http://103.139.171.5:5001/jiotvplus/live.php?c=Discovery_Kids_2&q=800&e=junk.m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=Discovery_Kids_2&q=800&e=junk.m3u8
 
 
 
