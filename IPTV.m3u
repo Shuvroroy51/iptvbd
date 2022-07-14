@@ -97,11 +97,13 @@ http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla
 http://208.86.19.13:81/904.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
+http://stream.serverbd247.com/hls/serverbd247.com-zeebangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla
 http://103.109.56.116/live/skyfeed1004/index.m3u8
 #http://208.86.19.13:81/906.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-
+http://stream.serverbd247.com/hls/serverbd247.com_starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
